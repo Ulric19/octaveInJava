@@ -14,7 +14,7 @@ import eu.simuline.octave.type.OctaveDouble;
 import eu.simuline.octave.type.OctaveInt;
 
 /**
- * Test read/write of {@link OctaveObject}
+ * Test read/write of {@see eu.simuline.octave.type.OctaveObject}
  * Evaluate a Strings casting an assignment and ensure 'get' works.
  */
 public class TestIoCastTypes {
